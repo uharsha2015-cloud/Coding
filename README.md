@@ -42,9 +42,8 @@
     <div class="container">
         <h1>Welcome to Harsha's Radio</h1>
         <p>Enjoy live Telugu songs!</p>
-        <!-- Replace the src URL with the actual streaming URL of Harsha's Radio -->
         <audio controls autoplay>
-            <source src="https://your-radio-stream-url.com/stream" type="audio/mpeg">
+            <source src="https://radio.garden/" type="audio/mpeg">
             Your browser does not support the audio element.
         </audio>
         <footer>
