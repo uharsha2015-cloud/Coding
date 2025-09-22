@@ -43,8 +43,7 @@
         <h1>Welcome to Harsha's Radio</h1>
         <p>Enjoy live Telugu songs!</p>
         <audio controls autoplay>
-            <source src="https://radio.garden/" type="audio/mpeg">
-            Your browser does not support the audio element.
+            <source src="https://radio.garden/" type="audio/
         </audio>
         <footer>
             © 2025 Harsha's Radio
